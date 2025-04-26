@@ -1,6 +1,7 @@
 # j-m-li.github.io
 
 <a href="https://j-m.li"><img src="https://lienher.org/jean-marc/paint1.jpg" alt=""></a>
+<p> <a href="htmlcssjavascript/">HTML CSS JavaScript</a> en français</p>
 <p>
 /
 <a href="https://github.com/j-m-li/dmx512">OksiD DMX 3/1</a>
